@@ -1,6 +1,6 @@
 [project]
-name = "pingclient"
-version = "1.0.1"
+name = "snmpdata"
+version = "1.0.2"
 dependencies = [
     "pydantic",
 ]
